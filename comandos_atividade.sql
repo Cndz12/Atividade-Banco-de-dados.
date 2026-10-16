@@ -1,23 +1,3 @@
--- =====================================================
--- UC: Banco de Dados - Atividade Individual (Clinica)
--- =====================================================
-
--- ---------- QUESTAO 2 (JA EXECUTADO no seu .db) ----------
--- INSERT INTO especialidade (nome) VALUES
---   ('Oftamologia'), ('Clínica Medica'), ('Pediatria'), ('Cardiologia'), ('Dermatologia');
---
--- INSERT INTO medico (nome, crm) VALUES
---   ('João Cleber', '43532'),
---   ('Tarcisio do Arcodeon', '43632'),
---   ('Barões da Pisadinha', '47632'),
---   ('Tierry Henri', '47832'),
---   ('Rafinha BigLove', '49832'),
---   ('Pablo DoArrocha', '47862'),
---   ('Nenho Henrique', '47062'),
---   ('Heitor Oliveira', '47022'),
---   ('Elton Motta', '47012'),
---   ('Devinho Novaes', '47016');
-
 -- Mostrar os dados inseridos:
 SELECT * FROM especialidade;
 SELECT * FROM medico;
